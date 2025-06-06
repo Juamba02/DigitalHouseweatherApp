@@ -10,6 +10,7 @@ body {
 
 .container {
     max-width: 60%;
+    min-height: 92vh;
     margin: 0 auto;
     padding: 20px;
     text-align: center;
